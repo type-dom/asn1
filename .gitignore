@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+yarn.lock
+.type-coverage
+*.DS_Store
+eslint_log.eslint_log
+.idea
+dist
+lib
+js
+coverage-ts
+*.log
+
