@@ -45,10 +45,7 @@
     "typescript": "^5.2.2",
     "typescript-coverage-report": "^1.0.0"
   },
-  "dependencies": {
-    "rxjs": "^7.8.1",
-    "@type-dom/utils": "^0.0.6"
-  },
+  "dependencies": {},
   "typeCoverage": {
     "atLeast": 99,
     "is": 99,
